@@ -15,3 +15,6 @@ Backend / infrastructure / data engineer. These days I mostly build AI agent too
 - [steipete/oracle](https://github.com/steipete/oracle/pulls?q=author%3Akiyo-e): browser automation fixes for localized (ja-JP) ChatGPT UIs
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/pull/129853): plugin catalog entry for cloudflare-sandbox
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom/pulls?q=author%3Akiyo-e): option to disable the Kompress fallback
+
+#### Contact
+[LinkedIn](https://www.linkedin.com/in/kiyohiro-endo-68287633/)

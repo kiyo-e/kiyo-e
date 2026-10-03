@@ -9,6 +9,7 @@ Backend / infrastructure / data engineer. These days I mostly build AI agent too
 - [**claude-code-proxy**](https://github.com/kiyo-e/claude-code-proxy): translates between the Anthropic API and OpenAI-compatible APIs so Claude Code can run against other models
 - [**hono-cli-adapter**](https://github.com/kiyo-e/hono-cli-adapter): small library that turns CLI arguments into requests to a Hono app, so you can put a thin CLI in front of it
 - [**hermes-cloudflare-sandbox**](https://github.com/kiyo-e/hermes-cloudflare-sandbox): runs the Hermes Agent terminal in Cloudflare Containers, with workspace snapshots and restore
+- [**CrooksJarzynskiLean**](https://github.com/kiyo-e/CrooksJarzynskiLean): machine-checked stochastic thermodynamics in Lean 4, covering the Crooks and Jarzynski relations from finite-state to continuous-time Markov chains. [DOI](https://doi.org/10.5281/zenodo.22176567)
 
 #### Open-source contributions
 - [steipete/oracle](https://github.com/steipete/oracle/pulls?q=author%3Akiyo-e): browser automation fixes for localized (ja-JP) ChatGPT UIs
